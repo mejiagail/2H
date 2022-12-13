@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="![GroupLogo_Group6 removed bg](https://user-images.githubusercontent.com/120151247/207390204-e6432c06-cc22-4a25-90fe-f829d22d7747.png)" rel="icon">
-  <link href="![GroupLogo_Group6 removed bg](https://user-images.githubusercontent.com/120151247/207390204-e6432c06-cc22-4a25-90fe-f829d22d7747.png)" rel="apple-touchicon">
+  <link href="![GroupLogo_Group6 removed bg](https://user-images.githubusercontent.com/120151247/207396290-5dd47d9a-792a-4389-958c-108d051187d1.png)">
+  <link href="![GroupLogo_Group6 removed bg](https://user-images.githubusercontent.com/120151247/207396290-5dd47d9a-792a-4389-958c-108d051187d1.png)" rel="apple-touchicon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -75,7 +75,7 @@
           </div>
         </div>
         <div class="col-lg-6 d-lg-flex flex-lg-column align-items-stretch order-1 order-lg-2 hero-img" data-aos="fade-up">
-          <img src="![Streaming_img](https://user-images.githubusercontent.com/120151247/207390381-13e0f715-ba17-4f11-9dd2-464f8b45b461.png)">
+          <img src="![Streaming_img](https://user-images.githubusercontent.com/120151247/207396294-8e30c849-3b88-4e01-b941-932b48b4a9b5.png)">
         </div>
       </div>
     </div>
@@ -160,7 +160,7 @@
 
       <div class="row content">
         <div class="col-md-4" data-aos="fade-right">
-          <img src="![Streaming_viewers-removebg-preview](https://user-images.githubusercontent.com/120151247/207391473-5af258fb-bd61-4343-bb0a-e75154f1d259.png)"
+          <img src="![Streaming_viewers-removebg-preview](https://user-images.githubusercontent.com/120151247/207396295-533e4172-ea28-4925-b8b0-49dbc46378bf.png)"
             class="img-fluid" alt="">
         </div>
 
@@ -203,27 +203,27 @@
         <div class="gallery-slider swiper">
           <div class="swiper-wrapper">
             <div class="swiper-slide"><a
-                href="![Color pallet](https://user-images.githubusercontent.com/120151247/207392027-3b2be229-e8fc-449c-9be5-a66a339f09f3.png)"
+                href="![Color pallet](https://user-images.githubusercontent.com/120151247/207396332-325eeaaa-9145-4d3a-bae3-f20d0178fb14.png)"
                 class="gallery-lightbox" data-gall="gallery-carousel"><img
-                  src="![Color pallet](https://user-images.githubusercontent.com/120151247/207392027-3b2be229-e8fc-449c-9be5-a66a339f09f3.png)" class="img-fluid"
+                  src="![Color pallet](https://user-images.githubusercontent.com/120151247/207396332-325eeaaa-9145-4d3a-bae3-f20d0178fb14.png)" class="img-fluid"
                   alt=""></a>
             </div>
             <div class="swiper-slide"><a
-                href="![Streaming layout](https://user-images.githubusercontent.com/120151247/207392401-d6e50b26-96ba-4cdd-a4e7-bad683fdc724.png)"
+                href="![Streaming layout](https://user-images.githubusercontent.com/120151247/207396340-404be9be-63ba-461a-bd32-e463e860f1e9.png)"
                 class="gallery-lightbox" data-gall="gallery-carousel"><img
-                  src="![Streaming layout](https://user-images.githubusercontent.com/120151247/207392401-d6e50b26-96ba-4cdd-a4e7-bad683fdc724.png)"
+                  src="![Streaming layout](https://user-images.githubusercontent.com/120151247/207396340-404be9be-63ba-461a-bd32-e463e860f1e9.png)"
                   class="img-fluid" alt=""></a>
             </div>
             <div class="swiper-slide"><a
-                href="![Invitational Poster](https://user-images.githubusercontent.com/120151247/207392526-fb0a56ff-db77-4ac3-a058-cbe30d638770.png)"
+                href="![Invitational Poster](https://user-images.githubusercontent.com/120151247/207396353-69a651ef-03c2-413c-bd01-17c747cd945e.png)"
                 class="gallery-lightbox" data-gall="gallery-carousel"><img
-                  src="![Invitational Poster](https://user-images.githubusercontent.com/120151247/207392526-fb0a56ff-db77-4ac3-a058-cbe30d638770.png)"
+                  src="![Invitational Poster](https://user-images.githubusercontent.com/120151247/207396353-69a651ef-03c2-413c-bd01-17c747cd945e.png)"
                   class="img-fluid" alt=""></a>
             </div>
             <div class="swiper-slide"><a
-                href="![Promotional Poster](https://user-images.githubusercontent.com/120151247/207392976-13327cbb-1866-45b2-a0ce-b7c96916c256.png)"
+                href="![Promotional Poster](https://user-images.githubusercontent.com/120151247/207396361-dea66a20-ef03-4d3f-bc4d-2208f3519cdd.png)"
                 class="gallery-lightbox" data-gall="gallery-carousel"><img
-                  src="![Promotional Poster](https://user-images.githubusercontent.com/120151247/207392976-13327cbb-1866-45b2-a0ce-b7c96916c256.png)"
+                  src="![Promotional Poster](https://user-images.githubusercontent.com/120151247/207396361-dea66a20-ef03-4d3f-bc4d-2208f3519cdd.png)"
                   class="img-fluid" alt=""></a>
             </div>
           </div>
@@ -254,7 +254,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                  <img src="![Marian Mejia](https://user-images.githubusercontent.com/120151247/207393127-6decef70-e842-4dc5-a755-ba8388317c2a.png)"
+                  <img src=![Marian Mejia](https://user-images.githubusercontent.com/120151247/207396407-19a031bb-dc65-43ee-a831-8005f6f437bb.png)
                     class="testimonial-img" alt="">
                 <h3>Marian Mejia</h3>
                 <h4>Group Leader</h4>
@@ -272,7 +272,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="![Samantha Bargas](https://user-images.githubusercontent.com/120151247/207393241-08ee857f-c6b6-41b9-9000-b4eec50beb8d.png)"
+                <img src=![Samantha Bargas](https://user-images.githubusercontent.com/120151247/207396409-50ecbd29-31da-42d2-a1d5-c8f502c4edee.png)
                   class="testimonial-img" alt="">
                 <h3>Samantha Bargas</h3>
                 <h4>Organizer</h4>
@@ -288,7 +288,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="![Kish Badong](https://user-images.githubusercontent.com/120151247/207394507-47be85f7-b14b-4e13-ab63-3960072e3511.png)"
+                <img src=![Kish Badong](https://user-images.githubusercontent.com/120151247/207396391-9d9efee1-f7a8-47b9-abfa-1c00ab947c43.png)
                   class="testimonial-img" alt="">
                 <h3>Kish Badong</h3>
                 <h4>Organizer</h4>
@@ -307,7 +307,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="![Libunao Mischa](https://user-images.githubusercontent.com/120151247/207394651-40b97374-5adf-4688-89dd-0fd2be2044b4.png)"
+                <img src=![Libunao Mischa](https://user-images.githubusercontent.com/120151247/207396400-525f6127-f295-45d0-a01f-7c3956fd65af.png)
                   class="testimonial-img" alt="">
                 <h3>Mischa Libunao</h3>
                 <h4>Time-Keeper</h4>
@@ -327,7 +327,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="![Yumi Valmonte](https://user-images.githubusercontent.com/120151247/207394749-7026243c-bdf4-4fae-b2c4-08ee67832272.png)"
+                <img src=![Yumi Valmonte](https://user-images.githubusercontent.com/120151247/207396411-aee50f4c-675c-4614-a6b3-f93619c8da09.png)
                   class="testimonial-img" alt="">
                 <h3>Yumi Valmonte</h3>
                 <h4>Technical</h4>
@@ -347,7 +347,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="![Luis Espeso](https://user-images.githubusercontent.com/120151247/207394821-b136dd60-fb8a-4ee6-a403-e1391b5cd508.png)"
+                <img src=![Luis Espeso](https://user-images.githubusercontent.com/120151247/207396404-f3dc2b34-5ae2-4129-b209-3ed20e8bb922.png)
                   class="testimonial-img" alt="">
                 <h3>Luis Espeso</h3>
                 <h4>Technical</h4>
@@ -445,18 +445,3 @@
   <script src="assets/js/main.js"></script>
 
 </body>
-
-
-![GroupLogo_Group6 removed bg](https://user-images.githubusercontent.com/120151247/207396290-5dd47d9a-792a-4389-958c-108d051187d1.png)
-![Streaming_img](https://user-images.githubusercontent.com/120151247/207396294-8e30c849-3b88-4e01-b941-932b48b4a9b5.png)
-![Streaming_viewers-removebg-preview](https://user-images.githubusercontent.com/120151247/207396295-533e4172-ea28-4925-b8b0-49dbc46378bf.png)
-![Color pallet](https://user-images.githubusercontent.com/120151247/207396332-325eeaaa-9145-4d3a-bae3-f20d0178fb14.png)
-![Streaming layout](https://user-images.githubusercontent.com/120151247/207396340-404be9be-63ba-461a-bd32-e463e860f1e9.png)
-![Invitational Poster](https://user-images.githubusercontent.com/120151247/207396353-69a651ef-03c2-413c-bd01-17c747cd945e.png)
-![Promotional Poster](https://user-images.githubusercontent.com/120151247/207396361-dea66a20-ef03-4d3f-bc4d-2208f3519cdd.png)
-![Kish Badong](https://user-images.githubusercontent.com/120151247/207396391-9d9efee1-f7a8-47b9-abfa-1c00ab947c43.png)
-![Libunao Mischa](https://user-images.githubusercontent.com/120151247/207396400-525f6127-f295-45d0-a01f-7c3956fd65af.png)
-![Luis Espeso](https://user-images.githubusercontent.com/120151247/207396404-f3dc2b34-5ae2-4129-b209-3ed20e8bb922.png)
-![Marian Mejia](https://user-images.githubusercontent.com/120151247/207396407-19a031bb-dc65-43ee-a831-8005f6f437bb.png)
-![Samantha Bargas](https://user-images.githubusercontent.com/120151247/207396409-50ecbd29-31da-42d2-a1d5-c8f502c4edee.png)
-![Yumi Valmonte](https://user-images.githubusercontent.com/120151247/207396411-aee50f4c-675c-4614-a6b3-f93619c8da09.png)
