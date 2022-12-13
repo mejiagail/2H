@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="C:\Users\USER\Documents\Webpage\2H\assets\img\GroupLogo_Group6 removed bg.png" rel="icon">
-  <link href="C:\Users\USER\Documents\Webpage\2H\assets\img\GroupLogo_Group6 removed bg.png" rel="apple-touch-icon">
+  <link href="![GroupLogo_Group6 removed bg](https://user-images.githubusercontent.com/120151247/207390204-e6432c06-cc22-4a25-90fe-f829d22d7747.png)" rel="icon">
+  <link href="![GroupLogo_Group6 removed bg](https://user-images.githubusercontent.com/120151247/207390204-e6432c06-cc22-4a25-90fe-f829d22d7747.png)" rel="apple-touchicon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -75,7 +75,7 @@
           </div>
         </div>
         <div class="col-lg-6 d-lg-flex flex-lg-column align-items-stretch order-1 order-lg-2 hero-img" data-aos="fade-up">
-          <img src="C:\Users\USER\Documents\Webpage\2H\assets\img\GroupLogo_Group6 removed bg.png" class="img-fluid" alt="">
+          <img src="![Streaming_img](https://user-images.githubusercontent.com/120151247/207390381-13e0f715-ba17-4f11-9dd2-464f8b45b461.png)">
         </div>
       </div>
     </div>
@@ -160,7 +160,7 @@
 
       <div class="row content">
         <div class="col-md-4" data-aos="fade-right">
-          <img src="C:\Users\USER\Documents\Webpage\2H\assets\img\Streaming_viewers-removebg-preview.png"
+          <img src="![Streaming_viewers-removebg-preview](https://user-images.githubusercontent.com/120151247/207391473-5af258fb-bd61-4343-bb0a-e75154f1d259.png)"
             class="img-fluid" alt="">
         </div>
 
@@ -203,27 +203,27 @@
         <div class="gallery-slider swiper">
           <div class="swiper-wrapper">
             <div class="swiper-slide"><a
-                href="C:\Users\USER\Documents\Webpage\2H\assets\img\gallery\Color pallet.png"
+                href="![Color pallet](https://user-images.githubusercontent.com/120151247/207392027-3b2be229-e8fc-449c-9be5-a66a339f09f3.png)"
                 class="gallery-lightbox" data-gall="gallery-carousel"><img
-                  src="C:\Users\USER\Documents\Webpage\2H\assets\img\gallery\Color pallet.png" class="img-fluid"
+                  src="![Color pallet](https://user-images.githubusercontent.com/120151247/207392027-3b2be229-e8fc-449c-9be5-a66a339f09f3.png)" class="img-fluid"
                   alt=""></a>
             </div>
             <div class="swiper-slide"><a
-                href="C:\Users\USER\Documents\Webpage\2H\assets\img\gallery\Streaming layout.png"
+                href="![Streaming layout](https://user-images.githubusercontent.com/120151247/207392401-d6e50b26-96ba-4cdd-a4e7-bad683fdc724.png)"
                 class="gallery-lightbox" data-gall="gallery-carousel"><img
-                  src="C:\Users\USER\Documents\Webpage\2H\assets\img\gallery\Streaming layout.png"
+                  src="![Streaming layout](https://user-images.githubusercontent.com/120151247/207392401-d6e50b26-96ba-4cdd-a4e7-bad683fdc724.png)"
                   class="img-fluid" alt=""></a>
             </div>
             <div class="swiper-slide"><a
-                href="C:\Users\USER\Documents\Webpage\2H\assets\img\gallery\Invitational Poster.png"
+                href="![Invitational Poster](https://user-images.githubusercontent.com/120151247/207392526-fb0a56ff-db77-4ac3-a058-cbe30d638770.png)"
                 class="gallery-lightbox" data-gall="gallery-carousel"><img
-                  src="C:\Users\USER\Documents\Webpage\2H\assets\img\gallery\Invitational Poster.png"
+                  src="![Invitational Poster](https://user-images.githubusercontent.com/120151247/207392526-fb0a56ff-db77-4ac3-a058-cbe30d638770.png)"
                   class="img-fluid" alt=""></a>
             </div>
             <div class="swiper-slide"><a
-                href="C:\Users\USER\Documents\Webpage\2H\assets\img\gallery\Promotional Poster.png"
+                href="![Promotional Poster](https://user-images.githubusercontent.com/120151247/207392976-13327cbb-1866-45b2-a0ce-b7c96916c256.png)"
                 class="gallery-lightbox" data-gall="gallery-carousel"><img
-                  src="C:\Users\USER\Documents\Webpage\2H\assets\img\gallery\Promotional Poster.png"
+                  src="![Promotional Poster](https://user-images.githubusercontent.com/120151247/207392976-13327cbb-1866-45b2-a0ce-b7c96916c256.png)"
                   class="img-fluid" alt=""></a>
             </div>
           </div>
@@ -254,7 +254,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                  <img src="C:\Users\USER\Documents\Webpage\2H\assets\img\testimonials\Marian Mejia.png"
+                  <img src="![Marian Mejia](https://user-images.githubusercontent.com/120151247/207393127-6decef70-e842-4dc5-a755-ba8388317c2a.png)"
                     class="testimonial-img" alt="">
                 <h3>Marian Mejia</h3>
                 <h4>Group Leader</h4>
@@ -272,7 +272,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="C:\Users\USER\Documents\Webpage\2H\assets\img\testimonials\Samantha Bargas.png"
+                <img src="![Samantha Bargas](https://user-images.githubusercontent.com/120151247/207393241-08ee857f-c6b6-41b9-9000-b4eec50beb8d.png)"
                   class="testimonial-img" alt="">
                 <h3>Samantha Bargas</h3>
                 <h4>Organizer</h4>
@@ -288,7 +288,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="C:\Users\USER\Documents\Webpage\2H\assets\img\testimonials\Kish Badong.png"
+                <img src="![Kish Badong](https://user-images.githubusercontent.com/120151247/207394507-47be85f7-b14b-4e13-ab63-3960072e3511.png)"
                   class="testimonial-img" alt="">
                 <h3>Kish Badong</h3>
                 <h4>Organizer</h4>
@@ -307,7 +307,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="C:\Users\USER\Documents\Webpage\2H\assets\img\testimonials\Libunao Mischa.png"
+                <img src="![Libunao Mischa](https://user-images.githubusercontent.com/120151247/207394651-40b97374-5adf-4688-89dd-0fd2be2044b4.png)"
                   class="testimonial-img" alt="">
                 <h3>Mischa Libunao</h3>
                 <h4>Time-Keeper</h4>
@@ -327,7 +327,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="C:\Users\USER\Documents\Webpage\2H\assets\img\testimonials\Yumi Valmonte.png"
+                <img src="![Yumi Valmonte](https://user-images.githubusercontent.com/120151247/207394749-7026243c-bdf4-4fae-b2c4-08ee67832272.png)"
                   class="testimonial-img" alt="">
                 <h3>Yumi Valmonte</h3>
                 <h4>Technical</h4>
@@ -347,7 +347,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="C:\Users\USER\Documents\Webpage\2H\assets\img\testimonials\Luis Espeso.png"
+                <img src="![Luis Espeso](https://user-images.githubusercontent.com/120151247/207394821-b136dd60-fb8a-4ee6-a403-e1391b5cd508.png)"
                   class="testimonial-img" alt="">
                 <h3>Luis Espeso</h3>
                 <h4>Technical</h4>
@@ -445,20 +445,3 @@
   <script src="assets/js/main.js"></script>
 
 </body>
-
-</html>![GroupLogo_Group6 removed bg](https://user-images.githubusercontent.com/120151247/207388643-212787ba-4f68-4bc1-a5ca-c07578ba6e59.png)
-![Streaming_img](https://user-images.githubusercontent.com/120151247/207388663-7cb4dcd9-0c8d-40dd-a9e5-2994e1ca2ffe.png)
-![Streaming_viewers-removebg-preview](https://user-images.githubusercontent.com/120151247/207388684-a8768aaa-d1f6-463d-a594-9fee0fda475e.png)
-![Yumi Valmonte](https://user-images.githubusercontent.com/120151247/207388726-f2fc24b4-b544-4209-83cc-db26a5fa63c0.png)
-![Samantha Bargas](https://user-images.githubusercontent.com/120151247/207388734-e9979525-eb06-4c09-8709-9043dc58e91c.png)
-![Kish Badong](https://user-images.githubusercontent.com/120151247/207388746-621193b3-9fee-467a-a1b0-9e3466ef5d49.png)
-![Libunao Mischa](https://user-images.githubusercontent.com/120151247/207388752-602f1e3d-8263-4ba7-a513-ba02ea405347.png)
-![Luis Espeso](https://user-images.githubusercontent.com/120151247/207388757-4680f06e-251b-4c6d-94f1-abdf68083350.png)
-![Marian Mejia](https://user-images.githubusercontent.com/120151247/207388762-27c35d3e-961a-46c6-8546-256a18f7b763.png)
-![Color pallet](https://user-images.githubusercontent.com/120151247/207388781-81e6da45-11a6-45c7-b580-fb12f05ad331.png)
-![Demographics](https://user-images.githubusercontent.com/120151247/207388791-f330c86a-5322-4fe0-bce5-caf68bff811d.png)
-![Invitational Poster](https://user-images.githubusercontent.com/120151247/207388799-b90deea5-6494-4a40-83fe-a9a762a2e0f7.png)
-![Promotional Poster](https://user-images.githubusercontent.com/120151247/207388804-6a4f8b41-462e-453e-ad4c-d8f70cb8d8f8.png)
-![Streaming layout](https://user-images.githubusercontent.com/120151247/207388815-c760786b-8260-4618-8b03-0c7112aeea1e.png)
-[Readme.txt](https://github.com/mejiagail/2H/files/10220008/Readme.txt)
-![boxicons](https://user-images.githubusercontent.com/120151247/207388903-9ec5221f-7111-4ecb-910e-98dbb69ed55a.svg)
