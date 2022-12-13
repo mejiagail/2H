@@ -445,3 +445,18 @@
   <script src="assets/js/main.js"></script>
 
 </body>
+
+
+![GroupLogo_Group6 removed bg](https://user-images.githubusercontent.com/120151247/207396290-5dd47d9a-792a-4389-958c-108d051187d1.png)
+![Streaming_img](https://user-images.githubusercontent.com/120151247/207396294-8e30c849-3b88-4e01-b941-932b48b4a9b5.png)
+![Streaming_viewers-removebg-preview](https://user-images.githubusercontent.com/120151247/207396295-533e4172-ea28-4925-b8b0-49dbc46378bf.png)
+![Color pallet](https://user-images.githubusercontent.com/120151247/207396332-325eeaaa-9145-4d3a-bae3-f20d0178fb14.png)
+![Streaming layout](https://user-images.githubusercontent.com/120151247/207396340-404be9be-63ba-461a-bd32-e463e860f1e9.png)
+![Invitational Poster](https://user-images.githubusercontent.com/120151247/207396353-69a651ef-03c2-413c-bd01-17c747cd945e.png)
+![Promotional Poster](https://user-images.githubusercontent.com/120151247/207396361-dea66a20-ef03-4d3f-bc4d-2208f3519cdd.png)
+![Kish Badong](https://user-images.githubusercontent.com/120151247/207396391-9d9efee1-f7a8-47b9-abfa-1c00ab947c43.png)
+![Libunao Mischa](https://user-images.githubusercontent.com/120151247/207396400-525f6127-f295-45d0-a01f-7c3956fd65af.png)
+![Luis Espeso](https://user-images.githubusercontent.com/120151247/207396404-f3dc2b34-5ae2-4129-b209-3ed20e8bb922.png)
+![Marian Mejia](https://user-images.githubusercontent.com/120151247/207396407-19a031bb-dc65-43ee-a831-8005f6f437bb.png)
+![Samantha Bargas](https://user-images.githubusercontent.com/120151247/207396409-50ecbd29-31da-42d2-a1d5-c8f502c4edee.png)
+![Yumi Valmonte](https://user-images.githubusercontent.com/120151247/207396411-aee50f4c-675c-4614-a6b3-f93619c8da09.png)
