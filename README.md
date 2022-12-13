@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="![GroupLogo_Group6 removed bg](https://user-images.githubusercontent.com/120151247/207396290-5dd47d9a-792a-4389-958c-108d051187d1.png)">
-  <link href="![GroupLogo_Group6 removed bg](https://user-images.githubusercontent.com/120151247/207396290-5dd47d9a-792a-4389-958c-108d051187d1.png)" rel="apple-touchicon">
+  <link href="C:\Users\USER\Documents\Webpage\2H\assets\img\GroupLogo_Group6 removed bg.png" rel="icon">
+  <link href="C:\Users\USER\Documents\Webpage\2H\assets\img\GroupLogo_Group6 removed bg.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
