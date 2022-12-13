@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="C:\Users\USER\Documents\Webpage\2H\assets\img\GroupLogo_Group6 removed bg.png" rel="icon">
-  <link href="C:\Users\USER\Documents\Webpage\2H\assets\img\GroupLogo_Group6 removed bg.png" rel="apple-touch-icon">
+  <link href="https://github.com/mejiagail/2H/commit/352745f6da277321cb38e06728803813f98664d6#diff-d3d487114ef4653b213f87c31e437a20115b5c58c73902d8012ead1ac034d5c0" rel="icon">
+  <link href="https://github.com/mejiagail/2H/commit/352745f6da277321cb38e06728803813f98664d6#diff-d3d487114ef4653b213f87c31e437a20115b5c58c73902d8012ead1ac034d5c0" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link
