@@ -10,11 +10,13 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="[GroupLogo_Group6 removed bg.png](https://github.com/mejiagail/2H/blob/main/assets/img/GroupLogo_Group6%20removed%20bg.png)"
-  <link href="[GroupLogo_Group6 removed bg.png](https://github.com/mejiagail/2H/blob/main/assets/img/GroupLogo_Group6%20removed%20bg.png)"
+  <link href="C:\Users\USER\Documents\Webpage\2H\assets\img\GroupLogo_Group6 removed bg.png" rel="icon">
+  <link href="C:\Users\USER\Documents\Webpage\2H\assets\img\GroupLogo_Group6 removed bg.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
@@ -67,15 +69,19 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-lg-6 d-lg-flex flex-lg-column justify-content-center align-items-stretch pt-5 pt-lg-0 order-2 order-lg-1" data-aos="fade-up">
+        <div
+          class="col-lg-6 d-lg-flex flex-lg-column justify-content-center align-items-stretch pt-5 pt-lg-0 order-2 order-lg-1"
+          data-aos="fade-up">
           <div>
             <h1>Listen, learn, and beat the heat</h1>
             <a href="#" class="download-btn"><i class="bx bxl-facebook"></i> Fcebook</a>
             <a href="#" class="download-btn"><i class="bx bxl-youtube"></i> Youtube</a>
           </div>
         </div>
-        <div class="col-lg-6 d-lg-flex flex-lg-column align-items-stretch order-1 order-lg-2 hero-img" data-aos="fade-up">
-          <img src="![Streaming_img](https://user-images.githubusercontent.com/120151247/207396294-8e30c849-3b88-4e01-b941-932b48b4a9b5.png)">
+        <div class="col-lg-6 d-lg-flex flex-lg-column align-items-stretch order-1 order-lg-2 hero-img"
+          data-aos="fade-up">
+          <img src="C:\Users\USER\Documents\Webpage\2H\assets\img\GroupLogo_Group6 removed bg.png" class="img-fluid"
+            alt="">
         </div>
       </div>
     </div>
@@ -160,7 +166,7 @@
 
       <div class="row content">
         <div class="col-md-4" data-aos="fade-right">
-          <img src="![Streaming_viewers-removebg-preview](https://user-images.githubusercontent.com/120151247/207396295-533e4172-ea28-4925-b8b0-49dbc46378bf.png)"
+          <img src="C:\Users\USER\Documents\Webpage\2H\assets\img\Streaming_viewers-removebg-preview.png"
             class="img-fluid" alt="">
         </div>
 
@@ -187,252 +193,272 @@
 
         </div>
 
-  </section><!-- End Details Section -->
+        </section><!-- End Details Section -->
 
-    <!-- ======= Gallery Section ======= -->
-    <section id="gallery" class="gallery">
-      <div class="container" data-aos="fade-up">
+        <!-- ======= Gallery Section ======= -->
+        <section id="gallery" class="gallery">
+          <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2>Streaming Design</h2>
-        </div>
-
-      </div>
-
-      <div class="container-fluid" data-aos="fade-up">
-        <div class="gallery-slider swiper">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide"><a
-                href="![Color pallet](https://user-images.githubusercontent.com/120151247/207396332-325eeaaa-9145-4d3a-bae3-f20d0178fb14.png)"
-                class="gallery-lightbox" data-gall="gallery-carousel"><img
-                  src="![Color pallet](https://user-images.githubusercontent.com/120151247/207396332-325eeaaa-9145-4d3a-bae3-f20d0178fb14.png)" class="img-fluid"
-                  alt=""></a>
-            </div>
-            <div class="swiper-slide"><a
-                href="![Streaming layout](https://user-images.githubusercontent.com/120151247/207396340-404be9be-63ba-461a-bd32-e463e860f1e9.png)"
-                class="gallery-lightbox" data-gall="gallery-carousel"><img
-                  src="![Streaming layout](https://user-images.githubusercontent.com/120151247/207396340-404be9be-63ba-461a-bd32-e463e860f1e9.png)"
-                  class="img-fluid" alt=""></a>
-            </div>
-            <div class="swiper-slide"><a
-                href="![Invitational Poster](https://user-images.githubusercontent.com/120151247/207396353-69a651ef-03c2-413c-bd01-17c747cd945e.png)"
-                class="gallery-lightbox" data-gall="gallery-carousel"><img
-                  src="![Invitational Poster](https://user-images.githubusercontent.com/120151247/207396353-69a651ef-03c2-413c-bd01-17c747cd945e.png)"
-                  class="img-fluid" alt=""></a>
-            </div>
-            <div class="swiper-slide"><a
-                href="![Promotional Poster](https://user-images.githubusercontent.com/120151247/207396361-dea66a20-ef03-4d3f-bc4d-2208f3519cdd.png)"
-                class="gallery-lightbox" data-gall="gallery-carousel"><img
-                  src="![Promotional Poster](https://user-images.githubusercontent.com/120151247/207396361-dea66a20-ef03-4d3f-bc4d-2208f3519cdd.png)"
-                  class="img-fluid" alt=""></a>
-            </div>
-          </div>
-          <div class="swiper-pagination"></div>
-        </div>
-
-      </div>
-    </section><!-- End Gallery Section -->
-
-    <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Testimonials</h2>
-          <p>Lifelabs is a subject that helps you learn more about something. Subjects like Information Literacy,
-            Reflection, Presentation, and Problem-Solving Skills help us understand what a student really needs.
-            LifeLabs also aids us as a student by helping us get more familiar with challenges and how to solve them as
-            well as by teaching us extra coding skills that we did not anticipate learning. It also helped us improve
-            our communication and collaboration skills. Although it was tough to accomplish, it really is rewarding when
-            the output is completely finished! Despite the fact there are still difficulties happening, we are able to
-            grasp and keep up. Without our teammates and LFs, Lifelabs wouldn't be this easy. This quarter, we’d like to
-            express our gratitude to our group and LFs for teaching us a crucial life lesson.</p>
-        </div>
-
-        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-          <div class="swiper-wrapper">
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                  <img src=![Marian Mejia](https://user-images.githubusercontent.com/120151247/207396407-19a031bb-dc65-43ee-a831-8005f6f437bb.png)
-                    class="testimonial-img" alt="">
-                <h3>Marian Mejia</h3>
-                <h4>Group Leader</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  LifeLabs aided me as a student by helping me get more familiar with challenges and how to solve them
-                  as well as by teaching me extra coding skills that I did not anticipate learning. Additionally,
-                  LifeLabs is a subject that calls for teamwork, and this taught me more about the dos and don'ts of
-                  cooperation.
-
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div>
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src=![Samantha Bargas](https://user-images.githubusercontent.com/120151247/207396409-50ecbd29-31da-42d2-a1d5-c8f502c4edee.png)
-                  class="testimonial-img" alt="">
-                <h3>Samantha Bargas</h3>
-                <h4>Organizer</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  LifeLabs helped me improve my communication and collaboration skills. It has been beneficial to me
-                  ever since our 7th grade. It has also taught me different skills for me to use in our daily lives.
-
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div>
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src=![Kish Badong](https://user-images.githubusercontent.com/120151247/207396391-9d9efee1-f7a8-47b9-abfa-1c00ab947c43.png)
-                  class="testimonial-img" alt="">
-                <h3>Kish Badong</h3>
-                <h4>Organizer</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  LifeLabs guided me as a student by helping me solve my difficulties or problems that I had
-                  encountered. I also gained more knowledge of the LifeLabs subject's coverage of topics that I was
-                  unfamiliar with. It helps me learn new lessons and things in life. Additionally, LifeLabs also helped
-                  me develop my ability to collaborate and communicate with the groupmates I have been with every year
-                  since 7th grade, and now in 10th grade, since LifeLabs is usually a group task in every school task.
-
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div>
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src=![Libunao Mischa](https://user-images.githubusercontent.com/120151247/207396400-525f6127-f295-45d0-a01f-7c3956fd65af.png)
-                  class="testimonial-img" alt="">
-                <h3>Mischa Libunao</h3>
-                <h4>Time-Keeper</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Lifelabs is a subject that helps you learn more about something. Subjects like Information Literacy,
-                  Reflection, Presentation, and Problem-Solving Skills help me understand what a student really needs.
-                  Lifelabs was beneficial to me not just in academics but also in my personal life. It became much
-                  easier for me after I discovered how to apply the lessons I had learned in my life. Despite the fact
-                  there are still difficulties happening, I am able to grasp and keep up. Without my group and LFs,
-                  Lifelabs wouldn't be this easy. This quarter, I'd like to express my gratitude to my group and LFs for
-                  teaching me a crucial life lesson.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div>
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src=![Yumi Valmonte](https://user-images.githubusercontent.com/120151247/207396411-aee50f4c-675c-4614-a6b3-f93619c8da09.png)
-                  class="testimonial-img" alt="">
-                <h3>Yumi Valmonte</h3>
-                <h4>Technical</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Honestly, I feel like Lifelabs was a huge bonus, not only do I get to learn using a bit of Javascript
-                  to create a website, building a brand and somewhat showcase it on the internet, whether it'd be
-                  Youtube or any other social media platforms. I feel like the more we learn in it and how well engaged
-                  the group is with it, I actually had fun even though it was a struggle to complete along with our
-                  other subjects. It really felt like I'm doing a job from a company or something. Although it was tough
-                  to accomplish, it really is rewarding when the output is completely finished!
-
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div>
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src=![Luis Espeso](https://user-images.githubusercontent.com/120151247/207396404-f3dc2b34-5ae2-4129-b209-3ed20e8bb922.png)
-                  class="testimonial-img" alt="">
-                <h3>Luis Espeso</h3>
-                <h4>Technical</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  LifeLabs was a great help to me as a student because it taught me how to solve difficulties or problems that I encountered. I also gain new knowledge on Javascript, creating my own brand, sourcing information, and etc. It also improved my skills in collaborating with others and communicating with them as well. 
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
+            <div class="section-title">
+              <h2>Streaming Design</h2>
             </div>
 
           </div>
-          <div class="swiper-pagination"></div>
-        </div>
 
-      </div>
-    </section><!-- End Testimonials Section -->
+          <div class="container-fluid" data-aos="fade-up">
+            <div class="gallery-slider swiper">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide"><a
+                    href="C:\Users\USER\Documents\Webpage\2H\assets\img\gallery\Color pallet.png"
+                    class="gallery-lightbox" data-gall="gallery-carousel"><img
+                      src="C:\Users\USER\Documents\Webpage\2H\assets\img\gallery\Color pallet.png" class="img-fluid"
+                      alt=""></a>
+                </div>
+                <div class="swiper-slide"><a
+                    href="C:\Users\USER\Documents\Webpage\2H\assets\img\gallery\Streaming layout.png"
+                    class="gallery-lightbox" data-gall="gallery-carousel"><img
+                      src="C:\Users\USER\Documents\Webpage\2H\assets\img\gallery\Streaming layout.png" class="img-fluid"
+                      alt=""></a>
+                </div>
+                <div class="swiper-slide"><a
+                    href="C:\Users\USER\Documents\Webpage\2H\assets\img\gallery\Invitational Poster.png"
+                    class="gallery-lightbox" data-gall="gallery-carousel"><img
+                      src="C:\Users\USER\Documents\Webpage\2H\assets\img\gallery\Invitational Poster.png"
+                      class="img-fluid" alt=""></a>
+                </div>
+                <div class="swiper-slide"><a
+                    href="C:\Users\USER\Documents\Webpage\2H\assets\img\gallery\Promotional Poster.png"
+                    class="gallery-lightbox" data-gall="gallery-carousel"><img
+                      src="C:\Users\USER\Documents\Webpage\2H\assets\img\gallery\Promotional Poster.png"
+                      class="img-fluid" alt=""></a>
+                </div>
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
 
-    <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
-      <div class="container" data-aos="fade-up">
+          </div>
+        </section><!-- End Gallery Section -->
 
-        <div class="section-title">
-          <h2>Contact</h2>
-        </div>
+        <!-- ======= Testimonials Section ======= -->
+        <section id="testimonials" class="testimonials section-bg">
+          <div class="container" data-aos="fade-up">
 
-        <div class="row">
+            <div class="section-title">
+              <h2>Testimonials</h2>
+              <p>Lifelabs is a subject that helps you learn more about something. Subjects like Information Literacy,
+                Reflection, Presentation, and Problem-Solving Skills help us understand what a student really needs.
+                LifeLabs also aids us as a student by helping us get more familiar with challenges and how to solve them
+                as
+                well as by teaching us extra coding skills that we did not anticipate learning. It also helped us
+                improve
+                our communication and collaboration skills. Although it was tough to accomplish, it really is rewarding
+                when
+                the output is completely finished! Despite the fact there are still difficulties happening, we are able
+                to
+                grasp and keep up. Without our teammates and LFs, Lifelabs wouldn't be this easy. This quarter, we’d
+                like to
+                express our gratitude to our group and LFs for teaching us a crucial life lesson.</p>
+            </div>
 
-          <div class="col-lg-6">
+            <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+              <div class="swiper-wrapper">
+
+                <div class="swiper-slide">
+                  <div class="testimonial-item">
+                    <img src="C:\Users\USER\Documents\Webpage\2H\assets\img\testimonials\Marian Mejia.png"
+                      class="testimonial-img" alt="">
+                    <h3>Marian Mejia</h3>
+                    <h4>Group Leader</h4>
+                    <p>
+                      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                      LifeLabs aided me as a student by helping me get more familiar with challenges and how to solve
+                      them
+                      as well as by teaching me extra coding skills that I did not anticipate learning. Additionally,
+                      LifeLabs is a subject that calls for teamwork, and this taught me more about the dos and don'ts of
+                      cooperation.
+
+                      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                  </div>
+                </div>
+
+                <div class="swiper-slide">
+                  <div class="testimonial-item">
+                    <img src="C:\Users\USER\Documents\Webpage\2H\assets\img\testimonials\Samantha Bargas.png"
+                      class="testimonial-img" alt="">
+                    <h3>Samantha Bargas</h3>
+                    <h4>Organizer</h4>
+                    <p>
+                      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                      LifeLabs helped me improve my communication and collaboration skills. It has been beneficial to me
+                      ever since our 7th grade. It has also taught me different skills for me to use in our daily lives.
+
+                      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                  </div>
+                </div>
+
+                <div class="swiper-slide">
+                  <div class="testimonial-item">
+                    <img src="C:\Users\USER\Documents\Webpage\2H\assets\img\testimonials\Kish Badong.png"
+                      class="testimonial-img" alt="">
+                    <h3>Kish Badong</h3>
+                    <h4>Organizer</h4>
+                    <p>
+                      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                      LifeLabs guided me as a student by helping me solve my difficulties or problems that I had
+                      encountered. I also gained more knowledge of the LifeLabs subject's coverage of topics that I was
+                      unfamiliar with. It helps me learn new lessons and things in life. Additionally, LifeLabs also
+                      helped
+                      me develop my ability to collaborate and communicate with the groupmates I have been with every
+                      year
+                      since 7th grade, and now in 10th grade, since LifeLabs is usually a group task in every school
+                      task.
+
+                      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                  </div>
+                </div>
+
+                <div class="swiper-slide">
+                  <div class="testimonial-item">
+                    <img src="C:\Users\USER\Documents\Webpage\2H\assets\img\testimonials\Libunao Mischa.png"
+                      class="testimonial-img" alt="">
+                    <h3>Mischa Libunao</h3>
+                    <h4>Time-Keeper</h4>
+                    <p>
+                      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                      Lifelabs is a subject that helps you learn more about something. Subjects like Information
+                      Literacy,
+                      Reflection, Presentation, and Problem-Solving Skills help me understand what a student really
+                      needs.
+                      Lifelabs was beneficial to me not just in academics but also in my personal life. It became much
+                      easier for me after I discovered how to apply the lessons I had learned in my life. Despite the
+                      fact
+                      there are still difficulties happening, I am able to grasp and keep up. Without my group and LFs,
+                      Lifelabs wouldn't be this easy. This quarter, I'd like to express my gratitude to my group and LFs
+                      for
+                      teaching me a crucial life lesson.
+                      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                  </div>
+                </div>
+
+                <div class="swiper-slide">
+                  <div class="testimonial-item">
+                    <img src="C:\Users\USER\Documents\Webpage\2H\assets\img\testimonials\Yumi Valmonte.png"
+                      class="testimonial-img" alt="">
+                    <h3>Yumi Valmonte</h3>
+                    <h4>Technical</h4>
+                    <p>
+                      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                      Honestly, I feel like Lifelabs was a huge bonus, not only do I get to learn using a bit of
+                      Javascript
+                      to create a website, building a brand and somewhat showcase it on the internet, whether it'd be
+                      Youtube or any other social media platforms. I feel like the more we learn in it and how well
+                      engaged
+                      the group is with it, I actually had fun even though it was a struggle to complete along with our
+                      other subjects. It really felt like I'm doing a job from a company or something. Although it was
+                      tough
+                      to accomplish, it really is rewarding when the output is completely finished!
+
+                      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                  </div>
+                </div>
+
+                <div class="swiper-slide">
+                  <div class="testimonial-item">
+                    <img src="C:\Users\USER\Documents\Webpage\2H\assets\img\testimonials\Luis Espeso.png"
+                      class="testimonial-img" alt="">
+                    <h3>Luis Espeso</h3>
+                    <h4>Technical</h4>
+                    <p>
+                      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                      LifeLabs was a great help to me as a student because it taught me how to solve difficulties or
+                      problems that I encountered. I also gain new knowledge on Javascript, creating my own brand,
+                      sourcing information, and etc. It also improved my skills in collaborating with others and
+                      communicating with them as well.
+                      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                  </div>
+                </div>
+
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+
+          </div>
+        </section><!-- End Testimonials Section -->
+
+        <!-- ======= Contact Section ======= -->
+        <section id="contact" class="contact">
+          <div class="container" data-aos="fade-up">
+
+            <div class="section-title">
+              <h2>Contact</h2>
+            </div>
+
             <div class="row">
-              <div class="col-lg-6 info">
-                <i class="bx bx-map"></i>
-              <h4>Address</h4>
-                <p>APEC SCHOOL Ortigas Extension<br>Pasig, Metro Manila,<br>Plus Code: H4Q5+68</p>
+
+              <div class="col-lg-6">
+                <div class="row">
+                  <div class="col-lg-6 info">
+                    <i class="bx bx-map"></i>
+                    <h4>Address</h4>
+                    <p>APEC SCHOOL Ortigas Extension<br>Pasig, Metro Manila,<br>Plus Code: H4Q5+68</p>
+                  </div>
+                  <div class="col-lg-6 info">
+                    <i class="bx bx-phone"></i>
+                    <h4>Call Us</h4>
+                    <p>+639361727535</p>
+                  </div>
+                  <div class="col-lg-6 info">
+                    <i class="bx bx-envelope"></i>
+                    <h4>Email Us</h4>
+                    <p>2h.toohottohandle@gmail.com</p>
+                  </div>
+                  <div class="col-lg-6 info">
+                    <i class="bx bx-time-five"></i>
+                    <h4>Working Hours</h4>
+                    <p>Mon - Fri: 8AM to 5PM<br>Saturday & Sunday: Rest day</p>
+                  </div>
+                </div>
               </div>
-              <div class="col-lg-6 info">
-                <i class="bx bx-phone"></i>
-                <h4>Call Us</h4>
-                <p>+639361727535</p>
+
+              <div class="col-lg-6">
+                <form action="forms/contact.php" method="post" role="form" class="php-email-form" data-aos="fade-up">
+                  <div class="form-group">
+                    <input placeholder="Your Name" type="text" name="name" class="form-control" id="name" required>
+                  </div>
+                  <div class="form-group mt-3">
+                    <input placeholder="Your Email" type="email" class="form-control" name="email" id="email" required>
+                  </div>
+                  <div class="form-group mt-3">
+                    <input placeholder="Subject" type="text" class="form-control" name="subject" id="subject" required>
+                  </div>
+                  <div class="form-group mt-3">
+                    <textarea placeholder="Message" class="form-control" name="message" rows="5" required></textarea>
+                  </div>
+                  <div class="my-3">
+                    <div class="loading">Loading</div>
+                    <div class="error-message"></div>
+                    <div class="sent-message">Your message has been sent. Thank you!</div>
+                  </div>
+                  <div class="text-center"><button type="submit">Send Message</button></div>
+                </form>
               </div>
-              <div class="col-lg-6 info">
-                <i class="bx bx-envelope"></i>
-                <h4>Email Us</h4>
-                <p>2h.toohottohandle@gmail.com</p>
-              </div>
-              <div class="col-lg-6 info">
-                <i class="bx bx-time-five"></i>
-                <h4>Working Hours</h4>
-                <p>Mon - Fri: 8AM to 5PM<br>Saturday & Sunday: Rest day</p>
-              </div>
+
             </div>
+
           </div>
-
-          <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form" data-aos="fade-up">
-              <div class="form-group">
-                <input placeholder="Your Name" type="text" name="name" class="form-control" id="name" required>
-              </div>
-              <div class="form-group mt-3">
-                <input placeholder="Your Email" type="email" class="form-control" name="email" id="email" required>
-              </div>
-              <div class="form-group mt-3">
-                <input placeholder="Subject" type="text" class="form-control" name="subject" id="subject" required>
-              </div>
-              <div class="form-group mt-3">
-                <textarea placeholder="Message" class="form-control" name="message" rows="5" required></textarea>
-              </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Contact Section -->
+        </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
 
 
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/aos/aos.js"></script>
@@ -445,3 +471,5 @@
   <script src="assets/js/main.js"></script>
 
 </body>
+
+</html>
